@@ -16,12 +16,14 @@ You can open the project in Android Studio and run in an Android Virtual Device.
 
 Open the apk file in your Android phone or run the project in an Android Virtual Device through the Android Studio.
 
-## Using the application
+## About the application
 
 The application has three partitions.
  - Control Buttons
  - Life Grid
  - Menu Buttons
+
+## Playing the Game of Life
 
 - To start, tap on the square fields in the Grid of Life to populate them with life. Tap again to unpopulate the square.
 - When done, click on "Next" button to see the next generation populate into the Grid of Life automatically.
