@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Game Of Life</string>
+    <string name="next_button">Next</string>
+    <string name="reset_button">Reset</string>
+    <string name="resize_button">Resize</string>
+    <string name="play_next_five">➲ 5</string>
+    <string name="play_next_ten">➲ 10</string>
+    <string name="play_next_twenty">➲ 20</string>
+    <string name="play_next_thirty">➲ 30</string>
+</resources>
